@@ -42,7 +42,6 @@ exports[`message component renders correctly 1`] = `
       >
         mockdata
       </Text>
-      <View />
     </View>
   </View>
   <View
